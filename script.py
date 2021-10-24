@@ -6,7 +6,7 @@ from bscscan import BscScan
 
 from bscscan.core.sync_client import SyncClient as BscScanSync
 import asyncio
-API_KEY = 'Z1GE8W4A5GRX6D1SF2X4T586J26Z1A11TF'
+API_KEY = 'INSERT_API_KEY'
 
 app = Flask(__name__)
 
